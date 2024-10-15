@@ -8,5 +8,6 @@ define([
     domReady(function () {
         (new Application()).run();
     });
+console.log('aother task');
 
 });
