@@ -5,4 +5,5 @@ define([
 ], function () {
     QUnit.start();
 console.log('screen guarrd');
+console.log('add cover');
 });

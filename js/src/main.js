@@ -9,5 +9,7 @@ define([
         (new Application()).run();
     });
 console.log('aother task');
+console.log('screen guarrd');
+console.log('add cover');
 
 });
